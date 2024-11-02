@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title></title>
+            <h1> <div style="text-align: center;">About me: Bill Cipher </div> </h1>
+            <h3> <div style="text-align: center;"> It's your favorite three-sided demon from the 
+                hit <s> documentary</s> childrens show "Gravity Falls"! 
+    
+            </div></h3>
+            
+            <link rel="stylesheet" type="text/css" href="style.css">
+        </head>
+        <body>
+            
+        <h2> Education:<img src="Bill2.webp" alt="Bill" width="200" height="150"></h2>
+            <p>This human that I am forcing to write my biography thinks that I have no formal education,
+                but that is NOT TRUE! Through multiple possessed humans I have attended many respectable universities like Harvard, Backupsmore, West Coast Tech,
+                and Juliard. So next time you think you don't have enough education,
+                just look at what I've done and cry!
+            </p>
+        <h2>Hobbies:</h2>
+            <p>It's not that I enjoy creating cults, it's that my followers simply love
+                to come join me in my adventures! Ever wanted to be possessed by a multi-dimensional demon?
+                Well, look no further! I enjoy making deals, using humans as puppets, and 
+                occassionally tearing a hole in the space-time continum so that my 
+                dimension spills into this one! Nothing huge.
+            </p>
+        <h2>Achievements: </h2>
+            <p>Ever heard of Weirdmageddon? Of course you have! It was the best
+                apocalypse/rave-to-end-the-world that anybody's ever seen! That was
+                all me, kids! Of course, it would have been better if that Pines family
+                hadn't ruined all of my plans. But another incredible achievement
+                of mine was surviving their weak assassination attempt! I'll be back,
+                so get ready!</p> 
+
+        </body>
+    </html>

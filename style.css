@@ -1,0 +1,22 @@
+body {
+    
+    background-color: rgb(236, 234, 132);
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    
+    
+    box-sizing: border-box;
+    width: 100%;
+    border: 3px solid rgb(5, 0, 0);
+    float: center;
+      
+  }
+  h2 {
+    color:rgb(16, 176, 216)
+  }
+  p {
+    color: drgb(6, 0, 0);
+  }
